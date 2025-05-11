@@ -33,7 +33,7 @@ Aplicativo desenvolvido em Android Studio com Jetpack Compose, com o objetivo de
 
 ## 📷 Imagens
 
-<img src="screenshot1.png" width="300"/> <img src="screenshot2.png" width="300"/>
+<img src="Images/screenshot2.png" width="300"/>
 
 ---
 
